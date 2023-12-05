@@ -1,2 +1,2 @@
 # Predicting_House_Price
-This repository contains Prediction Housing Price using a dataset from Kaggle. 
+This repository contains Prediction Housing Price using a dataset from Kaggle. The idea behind this project is to gauge the variables that affect the housing price. Many packages have been used in this project. However, the main focus has been on exploring and determining the statistical significant factors using the Ordinary Linear Regression (OLS) and satifsying the assumptions. 
